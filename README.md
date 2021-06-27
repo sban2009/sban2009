@@ -1,10 +1,9 @@
-### Hi there 👋
+![tenor](https://user-images.githubusercontent.com/36163778/123553229-984abb00-d797-11eb-98b4-caf93bcbf7df.gif)
+# Spandan Banerjee
+
+📧 banerjeespandan@protonmail.ch; sban2009@yahoo.in; sban200@gmail.com
 
 <!--
-**sban2009/sban2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sban2009&layout=compact&hide=Jupyter%20%Notebook&langs_count=10&theme=dark)](https://github.com/sban2009/github-readme-stats)

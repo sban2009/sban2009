@@ -1,5 +1,6 @@
-![tenor](https://user-images.githubusercontent.com/36163778/123553229-984abb00-d797-11eb-98b4-caf93bcbf7df.gif)
-# Spandan Banerjee
+<a href="https://youtu.be/X00djifIj9s"><img src=https://user-images.githubusercontent.com/36163778/123553229-984abb00-d797-11eb-98b4-caf93bcbf7df.gif>
+# Connect with me on <a href="https://www.linkedin.com/in/sban2009/"><img src="https://user-images.githubusercontent.com/36163778/123553590-b1546b80-d799-11eb-8f21-59353c9e2e5a.png" width="25"></a>
+
 
 📧 banerjeespandan@protonmail.ch; sban2009@yahoo.in; sban200@gmail.com
 

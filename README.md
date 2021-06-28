@@ -14,4 +14,4 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sban2009&layout=compact&hide=Jupyter%20%Notebook&langs_count=10&theme=dark)](https://github.com/sban2009/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sban2009&layout=compact&hide=Jupyter%20%Notebook&langs_count=10&theme=dark)](https://github.com/sban2009)

@@ -1,8 +1,9 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/36163778/177418440-a0eb2e1c-2db5-42f5-9414-bab956ccf11f.jpg" alt="Banner image for sban2009">
+    <a href="https://youtu.be/dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/36163778/177418440-a0eb2e1c-2db5-42f5-9414-bab956ccf11f.jpg" alt="Banner image for sban2009">
+    </a>
 </p>
 <p align="center">
-    <a href="https://youtu.be/X00djifIj9s"><img src="https://user-images.githubusercontent.com/36163778/123553229-984abb00-d797-11eb-98b4-caf93bcbf7df.gif" alt="Hello There!">
+    <a href="https://youtu.be/X00djifIj9s?t=1"><img src="https://user-images.githubusercontent.com/36163778/123553229-984abb00-d797-11eb-98b4-caf93bcbf7df.gif" alt="Hello There!">
     </a>
 </p>
 <h2 align="center"> Connect with me on <a href="https://www.linkedin.com/in/sban2009/"><img src="https://user-images.githubusercontent.com/36163778/123553590-b1546b80-d799-11eb-8f21-59353c9e2e5a.png" alt="LinkedIn Logo" height="20"></a> <a href="https://www.facebook.com/sban2009/"><img src="https://user-images.githubusercontent.com/36163778/123553708-8ae30000-d79a-11eb-8ab1-0b2965f06c03.png" alt="Facebook Logo" height="20"></a> <a href="https://www.instagram.com/sban2009/"><img src="https://user-images.githubusercontent.com/36163778/123553792-e7461f80-d79a-11eb-922c-4241497d912e.png" alt="Instagram Logo" height="20"></a></h2>

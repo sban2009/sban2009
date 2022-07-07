@@ -20,5 +20,5 @@
   -->
 <p align="center">
     <a href="https://github.com/sban2009">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sban2009&layout=compact&hide=Jupyter%20%Notebook&langs_count=10&theme=dark">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sban2009&layout=compact&card_width=450&custom_title=Top%20Languages...&hide=Jupyter%20%Notebook&langs_count=10&theme=dark">
 </p>

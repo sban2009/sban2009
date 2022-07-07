@@ -60,7 +60,5 @@
     Spotify
 </h3>
 <p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ovhjyovuckn5ydazbkfe6dae3q&redirect=true">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ovhjyovuckn5ydazbkfe6dae3q&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false">
-    </a>
 </p>

@@ -26,22 +26,22 @@
         <img src="https://user-images.githubusercontent.com/36163778/177871077-0d103bfd-d1dc-4dac-8c7d-c4d2a3b25252.png" alt="Facebook" height="40">
     </a>
     <a href="https://www.instagram.com/sban2009/">
-        <img src="https://user-images.githubusercontent.com/36163778/177872254-ec472b6d-d0f0-4d7e-8520-30fa77f1ebc0.png" alt="Instagram" height="40">
-    </a>
-    <a href="https://www.youtube.com/SponnyBee">
-        <img src="https://user-images.githubusercontent.com/36163778/177871467-ccb73c2c-a1d4-44d4-9119-f42369ced56a.png" alt="YouTube" height="40">
+        <img src="https://user-images.githubusercontent.com/36163778/177876952-788ccd70-1129-4c97-90ef-649048102814.png" alt="Instagram" height="40">
     </a>
     <a href="https://www.twitter.com/sban2009">
         <img src="https://user-images.githubusercontent.com/36163778/177871824-44fa9c79-a051-4d5e-912a-3a9323e6919e.png" alt="Twitter" height="40">
     </a>
+    <a href="https://www.youtube.com/SponnyBee">
+        <img src="https://user-images.githubusercontent.com/36163778/177871467-ccb73c2c-a1d4-44d4-9119-f42369ced56a.png" alt="YouTube" height="40">
+    </a>
     <a href="https://open.spotify.com/user/31ovhjyovuckn5ydazbkfe6dae3q">
         <img src="https://user-images.githubusercontent.com/36163778/177871968-e4812af1-37de-4876-a032-074f2483c641.png" alt="Spotify" height="40">
     </a>
-    <a href="https://www.snapchat.com/add/sban2009">
-        <img src="https://user-images.githubusercontent.com/36163778/177873279-ba40726f-e8f3-4fa7-8686-da6a8324c063.png" alt="Snapchat" height="40">
-    </a>
     <a href="https://www.reddit.com/u/sban2009">
         <img src="https://user-images.githubusercontent.com/36163778/177875556-f9f13c04-0fc3-4171-8fa6-b8b1a3b001b6.png" alt="Reddit" height="40">
+    </a>
+    <a href="https://www.snapchat.com/add/sban2009">
+        <img src="https://user-images.githubusercontent.com/36163778/177873279-ba40726f-e8f3-4fa7-8686-da6a8324c063.png" alt="Snapchat" height="40">
     </a>
 </p>
 

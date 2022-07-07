@@ -31,7 +31,7 @@
 </h3>
 <p align="center">
     <a href="https://github.com/sban2009?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sban2009&layout=compact&card_width=450&hide_title&hide=Jupyter%20%Notebook&langs_count=10&theme=dark" alt="Language Stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sban2009&layout=compact&card_width=450&hide_title=true&hide=Jupyter%20%Notebook&langs_count=10&theme=dark" alt="Language Stats">
     </a>
 </p>
 <h2>

@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://youtu.be/dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/36163778/177418440-a0eb2e1c-2db5-42f5-9414-bab956ccf11f.jpg" alt="Banner image for sban2009">
+    <a href="https://youtu.be/X00djifIj9s?t=1"><img src="https://user-images.githubusercontent.com/36163778/177418440-a0eb2e1c-2db5-42f5-9414-bab956ccf11f.jpg" alt="Banner image for sban2009">
     </a>
 </p>
 
@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-    <a href="https://youtu.be/X00djifIj9s?t=1"><img src="https://user-images.githubusercontent.com/36163778/123553229-984abb00-d797-11eb-98b4-caf93bcbf7df.gif" alt="Hello There!">
+    <a href="https://youtu.be/dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/36163778/123553229-984abb00-d797-11eb-98b4-caf93bcbf7df.gif" alt="Hello There!">
     </a>
 </p>
 

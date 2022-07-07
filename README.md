@@ -11,20 +11,39 @@
     <a href="https://youtu.be/X00djifIj9s?t=1"><img src="https://user-images.githubusercontent.com/36163778/123553229-984abb00-d797-11eb-98b4-caf93bcbf7df.gif" alt="Hello There!">
     </a>
 </p>
-<h3 align="center">Connect with me on
+
+<p align="center">
+    <a href="mailto:sban2009@yahoo.in">
+        <img src="https://user-images.githubusercontent.com/36163778/177872561-14f9fca8-4772-4843-a8c5-01c288d570ad.png" alt="Email" height="40">
+    </a>
     <a href="https://www.linkedin.com/in/sban2009/">
-        <img src="https://user-images.githubusercontent.com/36163778/123553590-b1546b80-d799-11eb-8f21-59353c9e2e5a.png" alt="LinkedIn Logo" height="20">
+        <img src="https://user-images.githubusercontent.com/36163778/177871242-89531c44-15cd-4e14-998e-5383b2a49a16.png" alt="LinkedIn" height="40">
+    </a>
+    <a href="https://sban2009.medium.com">
+        <img src="https://user-images.githubusercontent.com/36163778/177873151-c38cec72-1f19-481c-a4bf-9a8886dac310.png" alt="Medium" height="40">
     </a>
     <a href="https://www.facebook.com/sban2009/">
-        <img src="https://user-images.githubusercontent.com/36163778/123553708-8ae30000-d79a-11eb-8ab1-0b2965f06c03.png" alt="Facebook Logo" height="20">
+        <img src="https://user-images.githubusercontent.com/36163778/177871077-0d103bfd-d1dc-4dac-8c7d-c4d2a3b25252.png" alt="Facebook" height="40">
     </a>
     <a href="https://www.instagram.com/sban2009/">
-        <img src="https://user-images.githubusercontent.com/36163778/123553792-e7461f80-d79a-11eb-922c-4241497d912e.png" alt="Instagram Logo" height="20">
+        <img src="https://user-images.githubusercontent.com/36163778/177872254-ec472b6d-d0f0-4d7e-8520-30fa77f1ebc0.png" alt="Instagram" height="40">
     </a>
-</h3>
-<h3 align="center">
-    📧: sban2009@yahoo.in
-</h3>
+    <a href="https://www.youtube.com/SponnyBee">
+        <img src="https://user-images.githubusercontent.com/36163778/177871467-ccb73c2c-a1d4-44d4-9119-f42369ced56a.png" alt="YouTube" height="40">
+    </a>
+    <a href="https://www.twitter.com/sban2009">
+        <img src="https://user-images.githubusercontent.com/36163778/177871824-44fa9c79-a051-4d5e-912a-3a9323e6919e.png" alt="Twitter" height="40">
+    </a>
+    <a href="https://open.spotify.com/user/31ovhjyovuckn5ydazbkfe6dae3q">
+        <img src="https://user-images.githubusercontent.com/36163778/177871968-e4812af1-37de-4876-a032-074f2483c641.png" alt="Spotify" height="40">
+    </a>
+    <a href="https://www.snapchat.com/add/sban2009">
+        <img src="https://user-images.githubusercontent.com/36163778/177873279-ba40726f-e8f3-4fa7-8686-da6a8324c063.png" alt="Snapchat" height="40">
+    </a>
+    <a href="https://www.reddit.com/u/sban2009">
+        <img src="https://user-images.githubusercontent.com/36163778/177875556-f9f13c04-0fc3-4171-8fa6-b8b1a3b001b6.png" alt="Reddit" height="40">
+    </a>
+</p>
 
 <h2>
     <!-- blank space -->

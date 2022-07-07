@@ -88,7 +88,7 @@
 	<!-- blank space -->
 </h2>
 
-<h3 align="center">Spotify</h3>
+<h3 align="center">Recent Music</h3>
 
 <p align="center">
 	<img

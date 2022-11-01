@@ -18,6 +18,10 @@
 
 <p align="center">
 	<a href="mailto:sban2009@yahoo.in">
+		<img src="https://user-images.githubusercontent.com/36163778/199281083-56f4dad6-dfe2-4640-a956-635e2191da93.png"
+			alt="Resume" height="40" />
+	</a>
+	<a href="mailto:sban2009@yahoo.in">
 		<img src="https://user-images.githubusercontent.com/36163778/177872561-14f9fca8-4772-4843-a8c5-01c288d570ad.png"
 			alt="Email" height="40" />
 	</a>

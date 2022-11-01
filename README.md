@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-	<a href="mailto:sban2009@yahoo.in">
+	<a href="https://docs.google.com/document/d/13GujV-bvm_2Umw4tjfULo7Lqk4pltHPQv3s6EFHxVwo/edit?usp=sharing">
 		<img src="https://user-images.githubusercontent.com/36163778/199281083-56f4dad6-dfe2-4640-a956-635e2191da93.png"
 			alt="Resume" height="40" />
 	</a>

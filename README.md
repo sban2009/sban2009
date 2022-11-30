@@ -71,7 +71,7 @@
 
 <p align="center">
 	<a href="https://github.com/sban2009?tab=repositories">
-		<img src="https://sban2009-readme-stats.vercel.app/api/top-langs/?username=sban2009&layout=compact&card_width=450&hide_border=true&hide_title=true&hide=Jupyter%20%Notebook&langs_count=10&theme=github_dark"
+		<img src="https://sban2009-readme-stats.vercel.app/api/top-langs/?username=sban2009&layout=compact&card_width=450&hide_border=true&hide_title=true&hide=Jupyter%20%Notebook&langs_count=10&theme=none"
 			alt="Language Stats" />
 	</a>
 </p>
@@ -84,7 +84,7 @@
 
 <p align="center">
 	<a href="https://medium.com/@sban2009">
-		<img src="https://github-readme-medium.vercel.app/?username=sban2009&limit=5" alt="Spandan Banerjee's Medium" />
+		<img src="https://github-readme-medium.vercel.app/?username=sban2009&limit=5&bg=none" alt="Spandan Banerjee's Medium" />
 	</a>
 </p>
 

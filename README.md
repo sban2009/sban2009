@@ -79,15 +79,3 @@
 <h2>
 	<!-- blank space -->
 </h2>
-
-<h3 align="center">Medium Articles</h3>
-
-<p align="center">
-	<a href="https://medium.com/@sban2009">
-		<img src="https://github-readme-medium.vercel.app/?username=sban2009&limit=5&bg=none" alt="Spandan Banerjee's Medium" />
-	</a>
-</p>
-
-<h2>
-	<!-- blank space -->
-</h2>
